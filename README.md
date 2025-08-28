@@ -3,7 +3,7 @@
 <img src="https://camo.githubusercontent.com/54dc2be76ea554c329474c2ae77fea995b622239a9faa1818df2bdf66cc973ff/68747470733a2f2f692e7974696d672e636f6d2f76692f5f346b4c696f4d6f4d726b2f6d617872657364656661756c742e6a7067" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 # 💫 About Me:
-🔭 I’m currently working Nodejs,expressjs <br>👯 I’m looking to collaborate in any project<br>🌱 I’m currently learning Nodejs express, socketio,mysql<br>🤝 Connecte with me  : rajtupe987@gmail.com<br>⚡ Visit my portfolio :https://rajtupe987.github.io/
+🔭 I’m currently working as Associate Software Engineer at Greater then educational technology (A Narayana Group Enterprice) Banglore  <br>👯 I’m looking to collaborate in any project<br>🌱 I’m currently learning Nodejs express, socketio,mysql<br>🤝 Connecte with me  : rajtupe987@gmail.com<br>⚡ Visit my portfolio :https://rajtupe987.github.io/
 
 
 ## 🌐 Socials:
